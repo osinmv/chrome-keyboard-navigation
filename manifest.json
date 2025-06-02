@@ -3,7 +3,7 @@
   "name": "vi-nav",
   "version": "1.0",
   "description": "My Keyboard Navigation Extension with Minimal Permissions",
-  "permissions": ["activeTab"],
+  "permissions": [],
   "action": {
     "default_icon": "icon-insert.png"
   },
