@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "My Keyboard Navigation Extension",
+  "name": "vi-nav",
   "version": "1.0",
-  "description": "My Keyboard Navigation Extension.",
+  "description": "My Keyboard Navigation Extension with Minimal Permissions",
   "permissions": [],
   "action": {
     "default_icon": "icon-insert.png"
